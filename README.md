@@ -1,2 +1,2 @@
-# crud_games_laravel
+# Crud Games em Laravel
 Desafio Técnico desenvolvido em laravel.
